@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhijeet-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet" /> </p>
 
 - 🌱 I’m currently learning Backend Development from Masai School
-- 👯 I’m looking to collaborate on Interesting projects using JAVA
+- 👬 I’m looking to collaborate on Interesting projects using JAVA
 - 📫 How to reach me **abhijeetojha89@gmail.com**
 - 🥅 2023 goals: Make Game project make it as Open Source
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
