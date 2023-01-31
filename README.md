@@ -51,8 +51,8 @@
 <p>
 <h3 align="center">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhijeet-ojha/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled)" alt="Abhijeet-LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tag_awsome/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://icons8.com/icon/ZRiAFreol5mE/instagram)" alt="Abhijeet-Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeet-ojha/" target="blank"><img align="center" src="https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled" alt="Abhijeet-LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tag_awsome/" target="blank"><img align="center" src="https://icons8.com/icon/ZRiAFreol5mE/instagram" alt="Abhijeet-Instagram" height="30" width="40" /></a>
  
 </p>
 <br/>
