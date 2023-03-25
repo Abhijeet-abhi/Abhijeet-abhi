@@ -51,14 +51,21 @@
 <p>
 <h3 align="center">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhijeet-ojha/" target="blank"><img align="center" src="https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled" alt="Abhijeet-LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tag_awsome/" target="blank"><img align="center" src="https://icons8.com/icon/ZRiAFreol5mE/instagram" alt="Abhijeet-Instagram" height="30" width="40" /></a>
- 
+<a href="https://www.linkedin.com/in/abhijeet-ojha/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Abhijeet-LinkedIn"/></a>
+<a href="https://www.instagram.com/tag_awsome/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Abhijeet-Instagram"/></a>
 </p>
 <br/>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
-<br>
+<br/>
+
+    
+<h3 align="center">GitHub Trophies 🏆 </h3><br/>
+
+![](https://github-profile-trophy.vercel.app/?username=abhijeet-abhi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>               
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
